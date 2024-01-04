@@ -1,0 +1,62 @@
+.a{
+    height: 500px;
+    width: 100%;
+    background-color: black;
+}
+.b{
+    height: 150px;
+    width: 100%;
+    background-color: white;
+}
+.c{
+    height: 350px;
+    width: 100%;
+    background-color: lightblue;
+}
+.d{
+    height: 300px;
+    width: 20%;
+    background-color: white;
+    box-shadow: 2px 2px 3px rgb(114, 114, 114);
+    float: left;
+    margin-left: 40px;
+    position: relative;
+    top: 90px;
+}
+.e{
+    height: 300px;
+    width: 20%;
+    background-color: white;
+    box-shadow: 2px 2px 3px rgb(114, 114, 114);
+    float: left;
+    margin-left: 40px;   
+    position: relative;
+    top: 20px;      
+  }
+  .f{
+    height: 80px;
+    width: 80px;
+    background-color: orangered;
+    border-radius: 40px;
+    position: relative;
+    left: 60px;top: 20px;
+  }
+  .h{
+    height: 80px;
+    width: 80px;
+    background-color: orangered;
+    border-radius: 40px;
+    position: relative;
+    left: 60px;top: 20px;
+  }
+  .g{
+    font-size: 10px;
+    position: relative;
+    top: 20px;left: 50px;
+  }
+  .i{
+    font-size: 10px;
+    position: relative;
+    top: 20px;left:55px;
+    padding: 10px;
+}
