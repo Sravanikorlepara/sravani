@@ -1,0 +1,98 @@
+.a{
+    height: 720px;
+    width: 900px;
+    border: 3px solid gray;
+    margin-left: 10px;
+}
+.b{
+    height: 410px;
+    width: 900px;
+    border-bottom: 2px solid black ;
+}
+.c{
+    height: 412px;
+    width: 220px;
+    border-right: 3px solid black;
+    float: left;
+}
+.d{
+    height: 412px;
+    width: 220px;
+    border-right: 3px solid black;
+    float: left;
+}
+.e{
+    height: 412px;
+    width: 230px;
+    border-right: 3px solid black;
+    float: left;
+}
+.f{
+    height: 305px;width: 203px;border: 2px solid gray; margin-top: 50px;margin-bottom: 10px;margin-left: 10px;margin-right: 10px;float: left;position: relative;
+}
+.g{
+    height: 305px;width: 200px;border: 2px solid gray; margin-top: 50px;margin-bottom: 10px;margin-left: 5px;margin-right: 10px;float: left; 
+}
+.h{
+    height: 100px;width: 100px;border: 1px solid blue;background-color: skyblue;float: left;
+}
+.i{
+    height: 100px;width: 100px;border: 1px solid gray;background-color: lightgreen;float: left;position: static;
+}
+.j{
+    height: 100px;width: 100px;border: 1px solid blue;background-color: skyblue;float: left;
+}
+.k{
+    height: 100px;width: 100px;border: 1px solid gray;background-color: lightgreen;float: left;position: relative;top: 20px;left: 20px;
+}
+.l{
+    height: 100px;width: 100px;border: 1px solid gray;background-color: lightgreen;float: left;position: absolute;bottom: 101px;left: 100px;margin-left: 2px;margin-right: 5pxpx;
+}
+.m{
+    height: 100px;width: 100px;border: 1px solid gray;background-color: lightgreen;float: left;position: fixed;top: 0px;right: 0px;  
+}
+.n{
+    height: 308px;width: 900px;border-top: 1px solid black;
+}
+.o{
+    height: 308;width: 220; border-right: 3px solid black;float: left;
+}
+.p{
+    height: 308;width: 220; border-right: 3px solid black;float: left;
+}
+.q{
+    height: 308;width: 230; border-right: 2px solid black;float: left;
+}
+.r{
+    height: 200px;width: 200px;border-bottom: 2px solid gray;border-top: 2px solid gray;border-left: 2px dotted gray;border-right: 2px dotted gray;margin-top: 70px;margin-bottom: 10px;margin-left: 10px;margin-right: 10px;float: left;overflow-y: scroll;overflow-x: hidden;
+}
+.s{
+    height: 308;width: 222px; border-left: 2px solid black;float:right;
+}
+.t{
+    height: 200px;width: 200px;border-bottom: 2px solid gray;border-top: 2px solid gray;border-left: 2px dotted gray;border-right: 2px dotted gray; float: left; margin-top: 70px;margin-bottom: 5px;margin-left: 10px;margin-right: 10px;float: left; 
+}
+.u{
+    height: 100px;width: 100px;border: 1px solid gray;background-color: lightgreen;float: left;position: sticky;top: 20px;
+}
+.v{
+    height: 100px;width: 100px;border: 1px solid gray;background-color: lightgreen;float: left;position: sticky;bottom: 20px;
+}
+.w{
+    height: 200px;width: 205px;border-bottom: 2px solid gray;border-top: 2px solid gray;border-left: 2px dotted gray;border-right: 2px dotted gray;margin-top: 70px;margin-bottom: 10px;margin-left: 10px;margin-right: 10px;float: left;overflow-x: scroll;overflow-y: hidden;
+}
+.x{
+    height: 100px;width: 100px;border: 1px solid blue;background-color: skyblue;float: left;
+}
+.y{
+    height: 100px;width: 101px;border: 1px solid gray;background-color: lightgreen;float: left;position: sticky;left: 20px;margin-left: 100px;
+}
+.z{
+    height: 100px;width: 100px;border: 1px solid blue;background-color: skyblue;float: left;margin-left: 100px;margin-top: 0px;
+}
+.sra{
+    height: 100px;width: 100px;border: 1px solid blue;background-color: skyblue;float: left;
+}
+.bhavi{
+    height: 100px;width: 100px;border: 1px solid blue;background-color: skyblue;float: left;margin-left: 100px;margin-top: 0px;
+}

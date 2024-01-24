@@ -1,0 +1,51 @@
+.z{
+    height: 1200px;width: 100%;background-color: #9465E9;
+}
+.ab{
+    color: white;
+}
+.bc{
+    color: white;font-size: xx-large;
+}
+.de{
+    background-color: white;height: 440px;width: 250px;border-radius: 5px;float: left;margin-left: 350px;margin-top: 20px;
+}
+.fg{
+    background-color: white;height: 440px;width: 250px;border-radius: 5px;float: left;margin-left: 30px;margin-top: 20px;
+}
+.gh{
+    height:200px;width: 210px;background-image: url('../capstone/images/image7.jpg');margin: 5px;background-repeat: no-repeat;background-size: cover;
+}
+.hi{
+    font-size: x-large;color: #9465E9;
+}
+.ij{
+    color: gray;
+}
+.jk{
+    height: 30px;width: 100px;background-color:#9465E9;color: white;border-radius: 25px;padding-top: 4px;
+}
+.kl{
+    height:200px;width: 210px;background-image: url('../capstone/images/imag8.webp');margin: 5px;background-repeat: no-repeat;background-size: cover;
+}
+.lm{
+    height:200px;width: 210px;background-image: url('../capstone/images/image9.jpg');margin: 5px;background-repeat: no-repeat;background-size: cover;
+}
+.mn{
+    height:200px;width: 210px;background-image: url('../capstone/images/image10.jpg');margin: 5px;background-repeat: no-repeat;background-size: cover;
+}
+.no{
+    height:200px;width: 210px;background-image: url('../capstone/images/image11.jpg');margin: 5px;background-repeat: no-repeat;background-size: cover;
+}
+.op{
+    height:200px;width: 210px;background-image: url('../capstone/images/image12.jpg');margin: 5px;background-repeat: no-repeat;background-size: cover;
+}
+.bcd{
+    background-color: white;height: 440px;width: 250px;border-radius: 5px;float: left;margin-left: 350px;margin-top: 20px; 
+}
+.abc{
+        color: white;margin-top: 50px;
+}
+sravs{
+    border-bottom: 1px solid white;
+}

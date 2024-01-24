@@ -1,0 +1,117 @@
+table{
+    height: 450px;
+    width: 600px;
+    border: 5px solid black;
+}
+.a{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+}
+.b{
+    height: 100px;
+    width: 400px;
+    border: 2px solid black;
+}
+.c{
+    height: 50px;
+    width: 100px;
+    border: 2px solid black;
+}
+.d{
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+}
+.e{
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+}
+.f{
+    height: 100px;
+    width: 500px;
+    border: 2px solid black;
+}
+.g{
+    height: 250px;
+    width: 100px;
+    border: 2px solid black;
+}
+.h{
+    height: 150px;
+    width: 50px;
+    border: 2px solid black;
+}
+.n{
+    height: 150px;
+    width: 50px;
+    border: 2px solid black;
+}
+.i{
+    height: 250px;
+    width: 100px;
+    border: 2px solid black;
+}
+.j{
+    height: 100px;
+    width: 300px;
+    border: 2px solid black;
+}
+.k{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+}
+.l{
+    height: 200px;
+    width: 100px;
+    border: 2px solid black;
+}
+.m{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+}
+.o{
+    height: 100px;
+    width: 50px;
+    border: 2px solid black;
+    float: left;
+}
+.p{
+    height: 100px;
+    width: 50px;
+    border: 2px solid black;
+}
+.q{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+}
+.r{
+    height: 100px;
+    width: 50px;
+    border: 2px solid black;
+}
+.s{
+    height: 100px;
+    width: 50px;
+    border: 2px solid black;
+}
+.t{
+    height: 100px;
+    width: 5cap;
+    border: 2px solid black;
+}
+.u{
+    height: 100px;
+    width: 50px;
+    border: 2px solid black;
+}
+.v{
+    height: 100px;
+    width: 50px;
+    border: 2px solid black;
+}
+

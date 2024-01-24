@@ -1,0 +1,170 @@
+<html>
+    <head>
+        <title></title>
+        <style>
+            #sravs{
+                height: 300px;
+                width: 300px;
+                background-color: palevioletred;
+                margin-right: 20px;
+                float: left;
+            }
+            #sravs:hover{
+                transform: translate(50px,80px);
+                background-color: green;
+            }
+            #bhavi{
+                height: 300px;
+                width: 300px;
+                background-color: lightblue;
+                margin-right: 20px;
+                float: left;
+            }
+            #bhavi:hover{
+                transform: translatex(50px);
+            }
+            #vas{
+                height: 300px;
+                width: 300px;
+                background-color: red;
+                margin-right: 20px;
+                float: left;
+            }
+            #vas:hover{
+                transform: translatey(80px);
+            }
+            #sivs{
+                height: 300px;
+                width: 300px;
+                background-color: sandybrown;
+                margin-right: 20px;
+                float: left;
+            }
+            #sivs:hover{
+                transform: rotate(60deg);/*for clockwise direction*/
+            }
+            #sush{
+                height: 300px;
+                width: 300px;
+                background-color: greenyellow;
+                margin-top: 20px;
+                float: left;
+            }
+            #sush:hover{
+                transform: rotatey(-60deg);/*for anticlockwise direction*/       /* for rotate y it will compress the div into y axis*/
+            }
+            #joy{
+                height: 300px;
+                width: 300px;
+                background-color: blue;
+                margin-top: 20px;
+                margin-right: 20px;
+                margin-left: 20px;
+                float: left;
+            }
+            #joy:hover{
+                transform: scale(2);
+                /*transform: scale(2,3);   --2 is width it means it will double the width of original div ; 3 is height it means it will triple the height of actual div*/
+            }
+            #sai{
+                height: 300px;
+                width: 300px;
+                background-color: yellow;
+                margin-top: 20px;
+                margin-right: 20px;
+                float: left;
+            }
+            #sai:hover{
+                transform: scalex(2);
+            }
+            #viggu{
+                height: 300px;
+                width: 300px;
+                background-color: blueviolet;
+                margin-top: 20px;
+                margin-right: 20px;
+                float: left;
+            }
+            #viggu:hover{
+                transform: scaley(2);
+            }
+            #a{
+                height: 300px;
+                width: 300px;
+                background-color: peru;
+                margin-top: 20px;
+                margin-right: 20px;
+                float: left;
+            }
+            #a:hover{
+                transform: skew(60deg, 50deg);
+            } 
+            #b{
+                height: 300px;
+                width: 300px;
+                background-color: paleturquoise;
+                margin-top: 20px;
+                margin-right: 20px;
+                float: left;
+            }
+            #b:hover{
+                transform: skewx(45deg);
+            }
+            #c{
+                height: 300px;
+                width: 300px;
+                background-color: hotpink;
+                margin-top: 20px;
+                margin-right: 20px;
+                float: left;
+            }
+            #c:hover{
+                transform: skewy(60deg);
+            }
+            #d{
+                height: 300px;
+                width: 300px;
+                background-color: lightsalmon;
+                margin-top: 20px;
+                margin-right: 20px;
+                float: left;
+            }
+            #d:hover{
+                transform: matrix(1,-0.3,0,2,80,90);           /*transform: matrix(scalex(),skewy(),scaley(),skewx(),translatex(),translatey())*/
+            }
+            #e{
+                height: 300px;
+                width: 300px;
+                background-color: bisque;
+                margin-right: 20px;
+                margin-top: 20px;
+                float: left;
+            }
+            #e:hover{
+                transform: translate3d(50px,20px,30px);       /* transform: translate3d(x,y,z)*/
+                background-color:lightcoral;
+            }
+        </style>
+    </head>
+    <body>
+        <CENTER><h1>Translate in css</h1></CENTER>
+        <div id="sravs">Translate X&Y()</div>
+        <div id="bhavi">Translate X()</div>
+        <div id="vas">Translate Y()</div>
+        <br>
+        <div id="sivs">rotate</div>
+        <div id="sush">rotate</div>
+        <br>
+        <div id="joy">scale</div>
+        <div id="sai">scalex()</div>
+        <div id="viggu">scaley()</div>
+        <br>
+        <div id="a">skew()</div>
+        <div id="b">skewx()</div>
+        <div id="c">skewy()</div>
+        <br>
+        <div id="d">matrix()</div>
+        <br>
+        <div id="e">Translate3d(x,y,,z)</div>
+    </body>
+</html>

@@ -1,0 +1,32 @@
+<html>
+    <head>
+        <title></title>
+        <style>
+          body{
+            width: 100%;
+            background-color: pink;
+          }
+          .a{
+            border: 2px solid black;
+            height: 50px;
+            width: 250px;
+            color: red;
+            display: flex;
+            text-align: center;
+            margin-top: 400px;
+          }
+          @media screen and  (min-width:500px) and (max-width:700px){                 /*  @media screen ,  (min-width:500px) , (max-width:700px) --this is or property it will display only by satisfying any one of the conditions
+                                                                                      in @media there are 3 types:all,print,screen*/
+            body{
+                background-color: yellow;
+            }
+            .a{
+                color: blue;
+            }
+          }
+        </style>
+    </head>
+    <body>
+        <CENTER><div class="a">SCREEN WIDTH IS:</div></CENTER>
+    </body>
+</html>
