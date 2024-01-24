@@ -1,0 +1,47 @@
+<html>
+    <head>
+        <title></title>
+        <style>
+            #a{
+              height: 300px;
+              width: 300px;
+              animation-name: sravs;
+              animation-duration: 5s;
+              position: relative;
+              animation-fill-mode: backwards;
+            }
+            @keyframes sravs{
+                 /*  from{                                         this is the initial property that will change our div accn to the properties
+                    background-color: pink;
+                    animation-duration: 3s;
+                   
+                   }
+                   to{                                             this is the last property what we apply at the end 
+                    background-color: blue;
+                    border-radius: 200px;
+                    border: 5px solid black;  
+                   } */
+                   0%{
+                    background-color: red;top: 0px;left: 0px;border-radius: 200px;
+                   }
+                   25%{
+                    background-color: blue;left: 800px;border-radius: 0px;
+                   }
+                   50%{
+                    background-color: yellow;top: 400px;border-radius: 200px;
+                   }
+                   75%{
+                    background-color: pink;left: 0px;border-radius: 0px;
+                   }
+                   100%{
+                    background-color: green;border-radius: 200px;top: 250px;
+                   }
+            }
+        </style>
+    </head>
+    <body>
+        <center><b>ANIMATIONS IN CSS</b></center>
+        <HR>
+            <div id="a"></div>
+    </body>
+</html>

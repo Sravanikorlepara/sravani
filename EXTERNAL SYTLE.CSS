@@ -1,0 +1,40 @@
+.external{
+          font-size: 30px;
+          background-color: aqua;
+          color: red;
+}
+#SRAVS{
+          height: 80;
+          width: 80;
+          background-color: blue;
+}
+sravs{
+          color: black;
+          font-size: 30px;
+          font-family: 'Courier New', Courier, monospace;
+          background-color: bisque;
+}
+input[type="text"]{
+          color: black;
+}
+input[type="number"]{
+    color: red;
+}
+*{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0PX
+    padding:0PX;
+}
+a[href]{
+          background-color: greenyellow;
+}
+a:visited{
+          color: crimson;
+}
+a:hover{
+          font-size: 20px;
+          color: cornflowerblue;
+}
+a:active{
+          color:purple;
+}
